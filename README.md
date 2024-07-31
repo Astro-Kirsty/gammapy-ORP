@@ -71,7 +71,7 @@ print(len(obs))
 If the cells run without any error and prints `105`, **Congratulations! You have correctly set-up gammapy**
 
 
-### If you have any issues with installation please contact Kirsty via email feijen@apc.in2p3.fr
+### If you have any issues with installation please contact Kirsty via email feijen@apc.in2p3.fr or come see me during the week before the session (4:30PM Wednesday 4th September)
 
 
 ## Jupyter notebook
