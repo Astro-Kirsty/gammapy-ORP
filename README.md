@@ -82,6 +82,19 @@ conda activate gammapy-1.2
 jupyter notebook
 ```
 
+## GitHub
+I will distribute the code and all materials discussed in the ORP on this GitHub page. If you are new to GitHub you can follow the below instructions to obtain this repository on your own laptop. 
+
+The first step is to clone this repository:
+```
+git clone https://github.com/Astro-Kirsty/gammapy-ORP.git
+```
+Now you have a local copy of the repository. To get any changes from the repo you can do:
+```
+git pull
+```
+
+
 
 ## Timetable Wednesday 4th September
 
