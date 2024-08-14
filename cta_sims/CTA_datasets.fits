@@ -1,0 +1,16 @@
+datasets:
+- name: obs-0
+  type: SpectrumDatasetOnOff
+  filename: pha_obsobs-0.fits
+- name: obs-1
+  type: SpectrumDatasetOnOff
+  filename: pha_obsobs-1.fits
+- name: obs-2
+  type: SpectrumDatasetOnOff
+  filename: pha_obsobs-2.fits
+- name: obs-3
+  type: SpectrumDatasetOnOff
+  filename: pha_obsobs-3.fits
+- name: obs-4
+  type: SpectrumDatasetOnOff
+  filename: pha_obsobs-4.fits
