@@ -4,9 +4,11 @@
 # Hands-on workshop on VHE gamma-ray data analysis using Gammapy
 
 This folder contains the analysis notebooks shown in the Gammapy hands on sessions for the ORP School on Multi-messenger Astrophysics. 
-The related indico page can be found at https://www2.mpia-hd.mpg.de/~korhonen/ORP_training/Multi/
+The related page can be found at https://www2.mpia-hd.mpg.de/~korhonen/ORP_training/Multi/
 
 ## Installation and set-up
+
+Note: for this tutorial session we will actually utilise Google Collab for ease. However, it is wise to have gammapy installed in case we have any issues.
 
 These instructions assume that you have previously installed a version of [Anaconda](https://www.anaconda.com/products/distribution) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) on your machine.
 
